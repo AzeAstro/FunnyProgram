@@ -1,2 +1,2 @@
 # FunnyProgram
-It is funny program
+It is really funny code.
